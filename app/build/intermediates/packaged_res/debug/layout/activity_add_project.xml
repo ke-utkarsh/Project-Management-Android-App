@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/bkg_toolbar"
+            android:paddingStart="10dp"
+            android:paddingEnd="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints">
+
+            <View
+                android:id="@+id/btnBack"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_marginStart="7dp"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:background="@drawable/ic_baseline_arrow_back_ios_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tvHeading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Add Projects"
+                android:textColor="@color/white"
+                android:textSize="22dp"
+                android:textStyle="bold"
+                android:fontFamily="@font/heading_font"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutPname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/toolbar"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:id="@+id/tvPname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Project Name"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginStart="45dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <EditText
+                android:id="@+id/pname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Enter Project Name"
+                android:drawableStart="@drawable/ic_baseline_folder_24"
+                android:backgroundTint="#64046A"
+                android:drawablePadding="6dp"
+                android:layout_marginStart="45dp"
+                android:layout_marginEnd="35dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvPname" />
+            <TextView
+                android:id="@+id/pnameValidations"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginStart="45dp"
+                app:layout_constraintTop_toBottomOf="@id/pname"
+                app:layout_constraintStart_toStartOf="parent"
+                android:textColor="#F10B23"/>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutTname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/layoutPname"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:id="@+id/tvTname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Team Name"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginStart="45dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <com.google.android.material.textfield.TextInputLayout
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:layout_marginStart="45dp"
+                android:layout_marginEnd="35dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvTname">
+
+                <!-- Inside text input layout add
+                      an auto complete text view
+                        and make its input type to none-->
+                <AutoCompleteTextView
+                    android:id="@+id/tname"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:inputType="none"
+                    android:text="Choose Team"
+                    />
+                <TextView
+                    android:id="@+id/tnameValidations"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:textStyle="bold"
+                    app:layout_constraintTop_toBottomOf="@id/tname"
+                    app:layout_constraintStart_toStartOf="parent"
+                    android:textColor="#F10B23"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/datePicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/layoutTname"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:id="@+id/tvSdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Start Date:"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginStart="45dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/sdate"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:drawableEnd="@drawable/ic_baseline_calendar_month_24"
+                android:drawablePadding="6dp"
+                android:layout_marginTop="8dp"
+                android:text="2022-11-04"
+                android:textSize="18sp"
+                android:layout_marginStart="45dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvSdate" />
+            <TextView
+                android:id="@+id/edate"
+                android:layout_width="120dp"
+                android:layout_height="wrap_content"
+                android:text="2022-11-04"
+                android:textSize="18sp"
+                android:drawableEnd="@drawable/ic_baseline_calendar_month_24"
+                android:drawablePadding="6dp"
+                android:layout_marginEnd="35dp"
+                android:layout_marginTop="8dp"
+                app:layout_constraintTop_toBottomOf="@id/tvEdate"
+                app:layout_constraintEnd_toEndOf="parent"/>
+            <TextView
+                android:id="@+id/tvEdate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="End Date:"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginBottom="8dp"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="@id/edate"/>
+            <TextView
+                android:id="@+id/dateValidation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                app:layout_constraintTop_toBottomOf="@id/sdate"
+                app:layout_constraintStart_toStartOf="@id/edate"
+                android:textColor="#F10B23"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/layoutPdes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/datePicker"
+            tools:ignore="MissingConstraints">
+
+            <TextView
+                android:id="@+id/tvPdes"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Project Description"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:layout_marginStart="45dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <EditText
+                android:id="@+id/pdes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:hint="Describe Project"
+                android:drawableStart="@drawable/ic_baseline_article_24"
+                android:backgroundTint="#64046A"
+                android:drawablePadding="6dp"
+                android:layout_marginStart="45dp"
+                android:layout_marginEnd="35dp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/tvPdes" />
+            <TextView
+                android:id="@+id/pdesValidation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="14sp"
+                android:textStyle="bold"
+                android:layout_marginStart="45dp"
+                app:layout_constraintTop_toBottomOf="@id/pdes"
+                app:layout_constraintStart_toStartOf="parent"
+                android:textColor="#F10B23"/>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btnAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Add Project   "
+            android:layout_marginTop="25dp"
+            android:textColor="@color/white"
+            android:background="@drawable/bkg_button"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/layoutPdes" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
