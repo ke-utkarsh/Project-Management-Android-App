@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_toolbar.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_card_web.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\card_web.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_delete_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_main_header.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_main_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_visible.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_visible.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_person.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_person.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\raw_update_animation.json.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\raw\\update_animation.json"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_button.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_delete.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_circle.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\raw_delete_animation.json.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\raw\\delete_animation.json"
+    },
+    {
+        "merged": "com.example.projectteam.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.example.projectteam.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_card_cloud.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\card_cloud.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_card.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_location_on_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_location_on_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_logout.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_project_item.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\project_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_dropdown_item.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable-v24_icon_project.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable-v24\\icon_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_visible_off.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_visible_off.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable-v24_yamaha_logo.png.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable-v24\\yamaha_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\font_bernandcondensed.ttf.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\font\\bernandcondensed.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_circle_bottom.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\circle_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_lock.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_activity_add_project.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_add_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_filter_item.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\filter_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_folder_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_folder_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_item.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\raw_project_animation.json.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\raw\\project_animation.json"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\font_heading_font.ttf.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\font\\heading_font.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_arrow_back_ios_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_arrow_back_ios_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_ic_baseline_article_24.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\ic_baseline_article_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\font_segoeui.ttf.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\font\\segoeui.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_card_android.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\card_android.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_circle_top.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\circle_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable-v24_app_icon.png.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable-v24\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_project_item.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_project_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_bkg_profile.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\bkg_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_card_all.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\card_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-merged_res-5:\\drawable_icon_team.xml.flat",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\drawable\\icon_team.xml"
+    }
+]

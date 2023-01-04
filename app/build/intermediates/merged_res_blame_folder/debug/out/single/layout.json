@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\project_item.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\project_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\activity_add_project.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\activity_add_project.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\dropdown_item.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\dropdown_item.xml"
+    },
+    {
+        "merged": "com.example.projectteam.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.projectteam.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-mergeDebugResources-4:\\layout\\filter_item.xml",
+        "source": "C:\\Users\\ve00ym461\\.gradle\\daemon\\7.4\\com.example.projectteam.app-main-7:\\layout\\filter_item.xml"
+    }
+]
