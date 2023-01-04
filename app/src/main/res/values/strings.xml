@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjectTeam</string>
+    <string-array name="team_name">
+        <item>ANDROID</item>
+        <item>CLOUD</item>
+        <item>WEB</item>
+    </string-array>
+</resources>
